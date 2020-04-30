@@ -1,0 +1,112 @@
+Total requests received
+Requests Processed
+Requests on-hold or lapsed
+Requests still being processed
+Requests handled under EIRs
+Total requests received (excluding on-hold and lapsed)
+20-day deadline met
+Permitted extension to 20-day deadline
+Late response (i.e. 20-day deadline missed)
+Requests where advice and assistance provided
+Requests where information not held
+Total "resolvable" requests
+Initial Outcome Granted in full
+Initial Outcome  Partially withheld
+Initial Outcome  Fully withheld
+Initial Outcome Response not yet provided
+Fully refused - vexatious
+Fully refused - repeated
+Fully refused - cost limit
+Fully refused - exemption
+S(22) - Information intended for future publication
+S(22A) - Research intended for future publication
+S(23) - Information supplied by, or relating to, bodies dealing with security matters
+S(24) - National security
+S(26) - Defence
+S(27) - International relations
+S(28) - Relations within the United Kingdom
+S(29) - The economy
+S(30) - Investigations and proceedings conducted by public authorities
+S(31) - Law enforcement
+S(32) - Court records, etc
+S(33) - Audit functions
+S(34) - Parliamentary privilege
+S(35) - Formulation of Government policy, etc
+S(36) - Prejudice to effective conduct of public affairs
+S(37) - Communications with Her Majesty, etc and honours
+S(38) - Health and Safety
+S(40) - Personal information
+S(41) - Information provided in confidence
+S(42) - Legal professional privilege
+S(43) - Commercial interests
+S(44) - Prohibitions on disclosure
+3(a) - Exempt personal data
+4(a) - Information not held
+4(b) - Manifestly unreasonable
+4(c) - Too general
+4(d) - Work in progress / incomplete data
+4(e) - Internal communications
+5(a) - Adverse effect on international relations, defence, national security, public safety
+5(b) - Adverse effect on course of justice or conduct of enquiries
+5(c) - Adverse effect on intellectual property rights
+5(d) - Impinges on confidentiality of a public authority's work
+5(e) - Impinges on confidentiality of commercial or industrial information
+5(f) - Adverse effect on interests of person who provided the information
+5(g) - Adverse effect on protection of environment to which information relates
+Total exemptions and exceptions applied
+Number of requests where an exemption was claimed
+Total Section 21 exemptions used
+S21 Partly Exempt
+S21 Fully Exempt
+S21 20-day deadline met
+S21 Late response (i.e. 20-day deadline missed)
+Total Internal Reviews
+Internal Reviews with outcome known
+IR number upheld in full
+IR number upheld in part
+IR number overturned
+ICO Total Complaints
+ICO Complaints with known outcome
+ICO Number upheld in full
+ICO Number upheld in part
+ICO Number overturned
+PIT Total Requests Extended
+PIT Number Completed
+PIT 5 or Less
+PIT 6 to 10
+PIT 11 to 15
+PIT 16 to 20
+PIT 21 to 30
+PIT 31 to 40
+PIT 41 to 60
+PIT 61 to 80
+PIT 81 to 100
+PIT More than 100
+IR Total Reviews Completed
+IR 10 or less
+IR 11 to 20
+IR 21 to 40
+IR 41 to 60
+IR 61 to 80
+IR 81 to 100
+IR More than 100
+PIT uncompleted prev year Total last year
+PIT uncompleted prev year 5 or Less
+PIT uncompleted prev year 6 to 10
+PIT uncompleted prev year 11 to 15
+PIT uncompleted prev year 16 to 20
+PIT uncompleted prev year 21 to 30
+PIT uncompleted prev year 31 to 40
+PIT uncompleted prev year 41 to 60
+PIT uncompleted prev year 61 to 80
+PIT uncompleted prev year 81 to 100
+PIT uncompleted prev year More than 100
+IR uncompleted prev year Total last year
+IR uncompleted prev year 10 or less
+IR uncompleted prev year 11 to 20
+IR uncompleted prev year 21 to 40
+IR uncompleted prev year 41 to 60
+IR uncompleted prev year 61 to 80
+IR uncompleted prev year 81 to 100
+IR uncompleted prev year More than 100
+S(39) - Environmental information
